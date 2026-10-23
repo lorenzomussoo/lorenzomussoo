@@ -10,10 +10,6 @@
 
   <br>
 
-  <img src="https://cdn.pixabay.com/animation/2022/11/04/09/42/09-42-03-510_512.gif" width="100%" alt="Neural Network Animation"/>
-
-  <br>
-
   <!-- Badge Social Dinamici -->
   <a href="https://www.linkedin.com/in/lorenzo-musso-07760b297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
