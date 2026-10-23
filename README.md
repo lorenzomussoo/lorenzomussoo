@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Sfondo con onda animata -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:00599C&height=180&section=header" width="100%" alt="Animated Wave"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Data Flow"/>
   
   <br>
 
@@ -8,6 +7,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Lorenzo+Musso;M.Sc.+CS+Student+@+Sapienza;AI,+Cybersecurity+%26+HCI" alt="Typing SVG" />
   </a>
+
+  <br>
+
+  <img src="https://cdn.pixabay.com/animation/2022/11/04/09/42/09-42-03-510_512.gif" width="100%" alt="Neural Network Animation"/>
 
   <br>
 
